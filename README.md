@@ -1,5 +1,5 @@
 <h1>TPO INGENIERÍA DE DATOS I</h1>
-</img src="[https://drive.google.com/file/d/1gwB5B_gR5Hui0BXePg3nq_bK63pfJjtU/view?usp=drive_link](https://d27jswm5an3efw.cloudfront.net/app/uploads/2019/07/insert-image-html.jpg)">
+<img align="center" src="https://argentinaestudia.com/wp-content/uploads/2021/04/UADE_logo-300x214.png">
 <h2>Profesores: Charles Maldonado; Gustavo Escandell</h2>
 
 <p>Roles:</p>
@@ -36,7 +36,7 @@ Registro y gestión de productos, pedidos, gestión de empleados, crear y gestio
   <li>Problemas de control de inventario</li>
   <li>Problemas de rastreo de pedidos</li>
   <li>Barreras de comunicación</li>
-  <li>DDeslices en los precios de los productos/li>
+  <li>DDeslices en los precios de los productos</li>
 </ul>
 
 <h3>Historia de usuario</h3>
@@ -52,11 +52,11 @@ Por otro lado, el cliente desea llevar el control de la logística de su mercade
   <li>Producto</li>
   <li>Proveedor</li>
   <li>Empleado</li>
-  <li>Cliente/li>
+  <li>Cliente</li>
   <li>Pedido</li>
   <li>Detalle Pedido</li>
   <li>Depósito</li>
-  <li>Vehículo/li>
+  <li>Vehículo</li>
 </ul>
 <h3>Universo del discurso </h3>
 <p>
